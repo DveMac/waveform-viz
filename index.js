@@ -1,5 +1,5 @@
 var d3 = require('d3');
-var _ = require('tny');
+var _ = require('tiny-utils');
 
 function fn(name, fn) {
   var v, params = Array.prototype.slice.call(arguments, 2);

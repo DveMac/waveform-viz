@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "d3": "^3.4.4",
-    "tny": "0.0.1"
+    "tiny-utils": "0.0.2"
   },
   "devDependencies": {},
   "scripts": {
